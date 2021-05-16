@@ -1,0 +1,22 @@
+﻿<Properties StartupConfiguration="{8BA237D3-D0A0-2E02-4788-BF9127E5CF51}|">
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/BulletCube.cs">
+    <Files>
+      <File FileName="Assets/TacticsMove.cs" Line="174" Column="13" />
+      <File FileName="Assets/PlayerMove.cs" Line="6" Column="31" />
+      <File FileName="Assets/TriggerTransparency.cs" Line="34" Column="10" />
+      <File FileName="Assets/NPCMove.cs" Line="49" Column="14" />
+      <File FileName="Assets/LightScript.cs" Line="74" Column="6" />
+      <File FileName="Assets/Resources/TurnManager.cs" Line="5" Column="14" />
+      <File FileName="Assets/PlayerWepon.cs" Line="31" Column="9" />
+      <File FileName="Assets/OcelotFunction.cs" Line="76" Column="13" />
+      <File FileName="Assets/BulletCube.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

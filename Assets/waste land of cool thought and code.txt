@@ -1,0 +1,21 @@
+change rotation x to -12.668
+
+waste land of cool code
+
+I was trying to make the bullet follow the mouse. didnt work
+
+all i had to do was set z axis but vector 3 uses x y z maybe if i set x and y zero, it would work?
+   // if (Input.GetKey(KeyCode.Mouse0))
+       // {
+       //     GetComponent<Transform>().Translate(ray); 
+       //    
+       // }
+        Ray ray;
+        RaycastHit hit;
+        ray = Camera.main.ScreenPointToRay(Input.mousePosition);
+        if (Physics.Raycast(ray , out hit , 100f))
+            {
+            move = hit.point;
+        }
+
+        GetComponent<Transform>.Translate(move);
